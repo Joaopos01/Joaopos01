@@ -13,7 +13,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/joaopos1/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/pedroosouzaa/)
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:SEU_EMAIL@gmail.com)
 
 </div>
 
@@ -27,10 +26,9 @@
   <tr>
     <td>
       <pre>
-Desenvolvo soluções backend e resolvo problemas
-aplicando meus conhecimentos técnicos em Java, Spring Boot,
-APIs REST e bancos de dados, junto com raciocínio lógico,
-comunicação e trabalho em equipe.
+Desenvolvedor backend focado em Java e Spring Boot,
+criando APIs REST e aplicando boas práticas de código,
+banco de dados e versionamento com Git.
       </pre>
     </td>
   </tr>
@@ -68,15 +66,25 @@ comunicação e trabalho em equipe.
 
 ---
 
-## GitHub Stats
+## Projetos
 
+🔹 **Sistema de Agendamento de Quadras**  
+API REST com Java, Spring Boot e PostgreSQL  
+
+🔹 **Bank Account System**  
+Simulação de sistema bancário aplicando POO em Java  
+
+🔹 **Portfólio Web**  
+Site pessoal com HTML, CSS e JavaScript  
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Joaopos01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&icon_color=38BDF8%22"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Joaopos01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&icon_color=38BDF8&cache_seconds=1800"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopos01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9%22"/>
-
-</div>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopos01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&cache_seconds=1800"/>
 
 </div>
