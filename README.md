@@ -64,20 +64,6 @@ banco de dados e versionamento com Git.
 
 </div>
 
----
-
-## Projetos
-
-🔹 **Sistema de Agendamento de Quadras**  
-API REST com Java, Spring Boot e PostgreSQL  
-
-🔹 **Bank Account System**  
-Simulação de sistema bancário aplicando POO em Java  
-
-🔹 **Portfólio Web**  
-Site pessoal com HTML, CSS e JavaScript  
-
----
 
 ## GitHub Stats
 
