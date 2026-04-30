@@ -71,10 +71,12 @@ comunicação e trabalho em equipe.
 ## GitHub Stats
 
 
-
-
-
 <div align="center">
 
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Joaopos01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&icon_color=38BDF8%22"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopos01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9%22"/>
+
+</div>
 
 </div>
