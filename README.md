@@ -69,8 +69,7 @@ banco de dados e versionamento com Git.
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Joaopos01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&icon_color=38BDF8&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com?user=Joaopos01&theme=tokyonight&hide_border=true&locale=pt_BR" />
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopos01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&cache_seconds=1800"/>
+<br/><br/>
 
-</div>
