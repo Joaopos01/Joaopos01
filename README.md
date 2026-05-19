@@ -2,7 +2,7 @@
 
 # Pedro Oliveira
 
-### Software Engineer | Backend Developer
+### Estudante de Engenharia de Software | Backend em formação |
 
 <br>
 
@@ -26,9 +26,11 @@
   <tr>
     <td>
       <pre>
-Desenvolvedor backend focado em Java e Spring Boot,
-criando APIs REST e aplicando boas práticas de código,
-banco de dados e versionamento com Git.
+Estudante de Engenharia de Software com foco em desenvolvimento backend.
+Tenho estudado Java, Spring Boot, APIs REST, banco de dados, Git/GitHub
+e boas práticas de código. Também possuo noções de Docker, AWS, Swagger
+e Postman, aplicando esses conhecimentos em projetos práticos para
+evoluir como desenvolvedor.
       </pre>
     </td>
   </tr>
